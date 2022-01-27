@@ -10,4 +10,4 @@ setup(
     entry_points={
         'console_scripts':['comp30380_systeminfo=systeminfo.main:main']
         }
-    zip_safe=False)
+    )
