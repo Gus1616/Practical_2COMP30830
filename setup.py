@@ -5,8 +5,8 @@ setup(
     version="1.0.0",
     description='Practical_2',
     packages=["systeminfo"],
-    scripts=['bin/comp30670_systeminfo'],
+    scripts=['bin/comp303830_systeminfo'],
     entry_points={
-        'console_scripts':['comp30670_systeminfo=systeminfo.main:main']
+        'console_scripts':['comp30380_systeminfo=systeminfo.main:main']
         }
     )
